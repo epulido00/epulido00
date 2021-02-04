@@ -2,8 +2,10 @@
 
 ## Welcome to my profile, who i am?
 
-I'm a Computer Science Student, Software Developer
-
+I'm a Computer Science Student and a Full-Stack Developer
+- 🔭 I'm currently working as Full-Stack Web Developer 
+- 📫 How to reach me: 
+  Send me an email on e.pulidop00@gmail.com
 
 <!--
 **epulido00/epulido00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
