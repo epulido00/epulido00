@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hello, there!
+
+## Welcome to my profile, who i am?
+
+I'm a Computer Science Student, Software Developer
+
 
 <!--
 **epulido00/epulido00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
