@@ -1,5 +1,7 @@
 # Hello, there!
 
+![Hello There](hellothere.gif)
+
 ## Welcome to my profile, who i am?
 
 I'm a Computer Science Student and a Full-Stack Developer
